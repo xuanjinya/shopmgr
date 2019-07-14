@@ -1,4 +1,4 @@
-package bean;
+package com.imooc.shop.bean;
 
 /**
  * User 数据传输类
